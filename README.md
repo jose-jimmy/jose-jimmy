@@ -84,5 +84,5 @@
 
 <div align="center">
   <h3>Watch my contribution graph get eaten by snake 🐍</h3>
- <img src="https://github.com/Achilles8055/Achilles8055/blob/output/github-contribution-grid-snake.svg" />
+ <img src="https://github.com/jose-jimmy/jose-jimmy/blob/output/github-contribution-grid-snake.svg" />
 </div>
