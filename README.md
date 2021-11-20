@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love to play Football and Badmintion**
 
-- 📫 Feel free to reach out to me on : **josejimmy8055@gmail.com**
+- 📫 Feel free to reach out to me on : <a href="josejimmy8055@gmail.com">Gmail</a> <a href="https://www.linkedin.com/in/jose-jimmy/">Linkedin</a> 
 
 <h2 align="center">  ❤ Connect with me:</h2>
 
