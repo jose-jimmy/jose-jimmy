@@ -65,7 +65,7 @@
   <br/>
   <p>
     <a href="https://github.com/jose-jimmy/github-readme-stats"><img align="left"alt="Jose Jimmy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jose-jimmy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-      <a href="https://github.com/jose-jimmy/github-readme-stats"><img align="right" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-jimmy&theme=react&hide_border=true&bg_color=0D1117&hide=shell" />
+      <a href="https://github.com/jose-jimmy/github-readme-stats"><img align="right" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-jimmy&theme=react&hide_border=true&bg_color=0D1117&hide=shell,ruby" />
 
   </p>
 <br/>
