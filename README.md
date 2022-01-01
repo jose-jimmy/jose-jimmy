@@ -5,13 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 👦 I’m a CS undergrad currently exploring  **opensource**
+- 👦 I’m a CS undergrad currently exploring  **opensource and Web development**
 
-- 👨‍💻 I’m interested in learning new Technologies.
-
-- 🥅 2021 Goals: **Master Web development.**
-
-- ⚡ Fun fact **I love to play Football and Badmintion**
+- 🥅 2022 Goals: **Master ReactNative and Python.**
 
 - 📫 Feel free to reach out to me on : <a href="josejimmy8055@gmail.com">Gmail</a> 
 
