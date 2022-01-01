@@ -11,13 +11,15 @@
 
 - 📫 Feel free to reach out to me on : <a href="josejimmy8055@gmail.com">Gmail</a> 
 
+<br><br>
+
 <!--Connect with me-->
 
 <h2 align="center">  ❤ Connect with me:</h2>
 
 <p align="center"
 
-<a  target="blank" href="https://linkedin.com/in/jose-jimmy"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-jimmy" height="30" width="40" /></a>
+<a  target="_blank" href="https://linkedin.com/in/jose-jimmy"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-jimmy" height="30" width="40" /></a>
 <a href="https://twitter.com/josejimmy8055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josejimmy8055" height="30" width="40" /></a>
 <a href="https://instagram.com/j_o_s_e___j_i_m_m_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_o_s_e___j_i_m_m_y" height="30" width="40" /></a>
 
