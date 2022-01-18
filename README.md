@@ -7,7 +7,7 @@
 
 - 👦 I’m a CS undergrad currently exploring  **opensource and Web development**
 
-- 🥅 2022 Goals: **Master React and Python.**
+- 🥅 2022 Goals: **Master React**
 
 - 📫 Feel free to reach out to me on : <a href="josejimmy8055@gmail.com">Gmail</a> 
 
